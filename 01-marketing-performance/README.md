@@ -151,7 +151,7 @@ Provides a high-level view of marketing performance, including key KPIs such as:
 * Conversion rate
 * Marketing ROI
 
-
+![Executive Overview](images/dashboard_overview.png)
 
 ###### Channel \& Campaign Performance
 
@@ -159,7 +159,7 @@ Analyzes campaign performance by marketing channel and campaign type.
 
 This section helps identify which channels and campaign strategies generate the best results.
 
-
+![Executive Overview](images/channel_performance.png)
 
 ###### Customer \& Geographic Insights
 
@@ -167,7 +167,7 @@ Explores how marketing performance varies across customer segments and geographi
 
 This helps identify the audiences and markets with the highest engagement and ROI.
 
-
+![Executive Overview](images/customer_geo_insights.png)
 
 ###### Marketing Trends
 
@@ -175,7 +175,7 @@ Examines how key marketing metrics evolve over time.
 
 This section highlights potential trends and seasonal patterns in campaign performance.
 
-
+![Executive Overview](images/marketing_trends.png)
 
 ##### Key Insights
 
