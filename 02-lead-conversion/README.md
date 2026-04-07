@@ -68,7 +68,7 @@ The analysis focuses on three key areas:
 
 The dashboard was built in Power BI and structured to support executive decision-making.
 
-![Dashboard](dashboard/overviwe_print.png)
+![Dashboard](dashboard/overview_print.png)
 
 It includes:
 - KPI overview (Leads, Conversion Rate, Revenue, Revenue per Lead)
